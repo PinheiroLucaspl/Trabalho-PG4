@@ -1,0 +1,4 @@
+model\Pessoa.class
+ifc\edu\br\av2\pgm4\TestarPessoa.class
+control\Geral.class
+util\CriarTabelas.class
