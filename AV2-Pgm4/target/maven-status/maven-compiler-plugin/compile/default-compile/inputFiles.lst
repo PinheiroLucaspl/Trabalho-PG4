@@ -1,11 +1,13 @@
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\Consulta.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\Paciente.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\PlanoDeSaude.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\util\CriarTabelas.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\PlanoEmpresarial.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\PlanoProprio.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\ifc\edu\br\av2\pgm4\TestarPessoa.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\Pessoa.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\TipoDePlanoSaude.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\control\Geral.java
-C:\Users\EduardoVM\Desktop\work\av2\AV2-Pgm4\src\main\java\model\Consultorio.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\Consultorio.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\util\CriarTabelas.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\Pessoa.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\PlanoDeSaude.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\control\PacienteServlet.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\Consulta.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\TipoDePlanoSaude.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\DAO\PacienteDAO.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\ifc\edu\br\av2\pgm4\TestarPessoa.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\PlanoEmpresarial.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\control\Geral.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\Paciente.java
+D:\Documents\Faculdade\Programação 4\AV2\AV2-Pgm4\src\main\java\model\PlanoProprio.java

@@ -4,8 +4,10 @@ model\Paciente.class
 model\TipoDePlanoSaude.class
 model\Pessoa.class
 model\PlanoDeSaude.class
+DAO\PacienteDAO.class
 model\PlanoProprio.class
 model\Consultorio.class
+control\PacienteServlet.class
 model\PlanoEmpresarial.class
 ifc\edu\br\av2\pgm4\TestarPessoa.class
 control\Geral.class

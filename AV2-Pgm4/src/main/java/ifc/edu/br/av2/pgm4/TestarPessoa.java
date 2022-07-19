@@ -16,6 +16,7 @@ import jakarta.persistence.EntityTransaction;
 import jakarta.persistence.Persistence;
 import java.sql.SQLException;
 import java.util.List;
+import model.Paciente;
 import model.Pessoa;
 
 public class TestarPessoa {
@@ -36,6 +37,11 @@ public class TestarPessoa {
         em.persist(p1);
         em.persist(p2);
         em.persist(p3);
+        
+        Paciente pa = new Paciente("João", "Rua teste 1", "joao@gmail.com", "999999999", null);
+        Paciente pa1 = new Paciente("Lucas", "Rua teste 1", "Lucas@gmail.com", "999999999", null);
+        em.persist(pa);
+        em.persist(pa1);
 
         tx.commit();
         
