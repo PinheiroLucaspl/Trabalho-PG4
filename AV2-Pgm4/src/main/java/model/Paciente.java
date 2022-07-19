@@ -38,6 +38,17 @@ public class Paciente implements Serializable {
     @ManyToOne
     private PlanoDeSaude planoDeSaude;
     
+     public Paciente() {
+    }
+
+    public Paciente(String nome, String endereco, String email, String telefone, Date dataNascimento) {
+        this.nome = nome;
+        this.endereco = endereco;
+        this.telefone = telefone;
+        this.dataNascimento = dataNascimento;
+        this.email = email;
+    }
+    
     public int chegarEncaixes(){
         return 0; // Verificar método
     }

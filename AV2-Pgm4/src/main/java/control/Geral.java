@@ -7,7 +7,6 @@ package control;
 
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -32,7 +31,7 @@ public class Geral extends HttpServlet {
             throws ServletException, IOException {
         request.setAttribute("registros", "");
         getServletContext().getRequestDispatcher("/Form.jsp").forward(request, response);
-    }
+        }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**

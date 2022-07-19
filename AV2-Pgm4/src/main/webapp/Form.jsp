@@ -13,6 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p>Primeira página</p>
+        <p>Página Inicial sistema de consultas</p>
+        <a href="paciente">cadastro de pacientes</a>
     </body>
 </html>

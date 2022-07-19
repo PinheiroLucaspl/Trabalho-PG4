@@ -9,10 +9,11 @@ import jakarta.persistence.ManyToOne;
 import jakarta.persistence.SequenceGenerator;
 import jakarta.persistence.Table;
 import java.io.Serializable;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import model.TipoDePlanoSaude;
 
 /**
  *
@@ -32,8 +33,8 @@ public class PlanoDeSaude implements Serializable {
     private float limite;
     private String tipoDeLeito;
     
-    @ManyToOne
-    private TipoDePlanoSaude tipoDePlano;
+   // @ManyToOne
+    //private TipoDePlanoSaude tipoDePlano;
 
     public float calcularLimite(){
         return 0;
@@ -63,13 +64,13 @@ public class PlanoDeSaude implements Serializable {
         this.tipoDeLeito = tipoDeLeito;
     }
 
-    public TipoDePlanoSaude getTipoDePlano() {
+   /* public TipoDePlanoSaude getTipoDePlano() {
         return tipoDePlano;
     }
 
     public void setTipoDePlano(TipoDePlanoSaude tipoDePlano) {
         this.tipoDePlano = tipoDePlano;
-    }
+    }*/
 
     public Long getId() {
         return id;
